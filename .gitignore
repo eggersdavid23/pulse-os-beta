@@ -1,0 +1,31 @@
+# mac
+.DS_Store
+
+# Node / React Native / Expo
+node_modules/
+npm-debug.log*
+yarn*.log
+.expo/
+.expo-shared/
+dist/
+build/
+android/app/build/
+ios/build/
+ios/DerivedData/
+*.keystore
+*.jks
+
+# Flutter (safe to include even if not used)
+.buildlog/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# env
+.env
+.env.*
